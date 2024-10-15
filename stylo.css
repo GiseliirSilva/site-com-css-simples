@@ -1,5 +1,5 @@
 body{
-	background: url(imagens/fundo.jpg); 
+	background: url(Imagens/fundo.jpg); 
 	font: 16px Arial, Helvetica, sans-serif;
 	
 }
@@ -9,7 +9,7 @@ body{
 }
 
 #Menu {
-	background: url(imagens/fundo.jpg) ;
+	background: url(Imagens/fundo.jpg) ;
 	padding: 18px;
 	border: 15px purple;
 }
